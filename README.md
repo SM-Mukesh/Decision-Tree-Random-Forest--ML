@@ -45,4 +45,4 @@ Features:
 * Start: The number of the first or the top most vertebrae that was operated
 
 ### Result:
-  Since the dataset is small with just 81 records it has performed well in Decision Tree with Accuracy of 0.88(88%)
+  Since the dataset is small with just 81 records it has performed well in Decision Tree with Accuracy of 0.88(88%).
